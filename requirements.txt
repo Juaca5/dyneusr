@@ -7,6 +7,6 @@ scipy
 scikit-learn
 matplotlib
 seaborn
-networkx
+networkx==2.3.0
 nilearn
 kmapper>=1.2
